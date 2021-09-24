@@ -164,7 +164,7 @@ Selecione
 Git | GitHub | Share Project on GitHub
 
 É necessário criar o arquivo system.properties na raiz do projeto, para informar o heroku da versão do java que estamos utilizado.
-
+ 
 ```
 java.runtime.version=11
 ```
